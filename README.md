@@ -1,5 +1,5 @@
 # coding_study
-0 week_study
+### 0 week_study
 1. 앞으로 기간동안 목표 티어
 2. 기간
 3. 스터디 방법
